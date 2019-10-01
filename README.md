@@ -1,18 +1,20 @@
-#What is the DuckDuckGo
+<h1>What is the DuckDuckGo</h1>
 
-DuckDuckGo (DDG) is an internet search engine that emphasizes protecting searchers' 
-privacy and avoiding the filter bubble of personalized search results. DuckDuckGo 
+DuckDuckGo (DDG) is an internet search engine that emphasizes protecting <em>searchers'</em> 
+privacy and avoiding the filter bubble of personalized search results. <strong>DuckDuckGo </strong>
 distinguishes itself from other search engines by not profiling its users and by 
 showing all users the same search results for a given search term,and emphasizes
  returning the best results, rather than the most results, generating those results 
  from over 400 individual sources, including crowdsourced sites such as Wikipedia, 
  and other search engines like Bing, Yahoo!, and Yandex.As of August 2019, it had 
  44,196,092 daily direct searches on average.
-
+<br>
+<br>
 The company is based in Paoli, Pennsylvania, in Greater Philadelphia, 
 and has 67 employees as of July 2019.The company name is a reference 
-to the children's game duck, duck, goose.
-
+to the children's game <em>duck, duck, goose.<em>
+<br>
+<br>
 Some of DuckDuckGo's source code is free software hosted
  at GitHub under the Apache 2.0 License,
  but the core is proprietary. The company registered the
