@@ -1,3 +1,4 @@
+What is the DuckDuckGo?
 DuckDuckGo (DDG) is an internet search engine that emphasizes protecting searchers' 
 privacy and avoiding the filter bubble of personalized search results. DuckDuckGo 
 distinguishes itself from other search engines by not profiling its users and by 
