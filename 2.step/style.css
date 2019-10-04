@@ -1,0 +1,11 @@
+div#monster {
+    background-color: rgb(116, 189, 164);
+}
+div.girl {
+    text-align:center;
+    padding:50px;
+    color:white;
+}
+#monsg {
+    padding-bottom: 0px;
+}
