@@ -1,0 +1,11 @@
+div.duck{
+    height:100vh;
+    background-clip: rgb(219, 219, 240);
+}
+#arama {
+    color:grey;
+}
+div#ducklogo {
+    text-align:center;
+    padding: 90px;
+}
