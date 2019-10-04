@@ -1,0 +1,9 @@
+div#bath {
+    background-color: rgb(102, 102, 216);
+}
+
+div#douch {
+    text-align: center;
+    color:white;
+    padding:50px;
+}
