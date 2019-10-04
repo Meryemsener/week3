@@ -1,0 +1,60 @@
+
+div.duck{
+    height:100vh;
+    background-clip: rgb(219, 219, 240);
+}
+#arama {
+    color:grey;
+}
+div#ducklogo {
+    text-align:center;
+    padding: 90px;
+}
+
+div#monster {
+    background-color: rgb(116, 189, 164);
+}
+div.girl {
+    text-align:center;
+    padding:50px;
+    color:white;
+}
+#monsg {
+    padding-bottom: 0px;
+}
+
+div#ghost {
+    background-color: orange;
+}
+div#hayalet {
+    text-align: center;
+    color:white;
+    padding:50px;
+}
+#casper {
+    padding-bottom: 0px;
+    padding-left: 300px;
+}
+
+div#bath {
+    background-color: rgb(102, 102, 216);
+}
+
+div#douch {
+    text-align: center;
+    color:white;
+    padding:50px;
+}
+footer#climp {
+    background-color: rgb(88, 188, 255);
+}
+div#tirmanici {
+    text-align: center;
+    color:rgb(64, 56, 94);
+    padding:50px;
+}
+
+#climb {
+    padding-bottom: 0px;
+    padding-left: 300px;
+}
