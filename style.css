@@ -1,10 +1,47 @@
+body {
+    font-family:  "DDG_ProximaNova_UI_2", "DDG_ProximaNova_UI_3", "DDG_ProximaNova_UI_4", "DDG_ProximaNova_UI_5",
+    , "Open Sans", Arial, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+div.nav {
+float: right;
+}
 
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: #aaaaaa;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+form {
+    
+    margin-top: 15px;
+    vertical-align: baseline;
+}
+<!--buuraya  kadari sayfa 1 e ekle-->
 div.duck{
     height:100vh;
     background-clip: rgb(219, 219, 240);
 }
+
 #arama {
     color:grey;
+}
+#search {
+    color: #4fb6ad;
 }
 div#ducklogo {
     text-align:center;
@@ -19,6 +56,30 @@ div.girl {
     padding:50px;
     color:white;
 }
+<!--burayi monsterave diger tum sayfalara ekle-->
+.search2 {
+    height: 45px;
+    width: 300px;
+    background: rgba(34, 34, 34, 0.5);   
+    padding-left: 10px;
+    padding-right: 10px; 
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    border: none;
+}
+
+    
+}
+button:hover {
+    color: rgb(255, 255, 255);
+    background: rgba(19, 15, 15, 0.8); 
+}
+button:link {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    
+}
+<!--buraya kadari monsterave diger tum sayfalara ekle-->
 #monsg {
     padding-bottom: 0px;
 }

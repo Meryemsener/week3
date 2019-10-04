@@ -1,6 +1,28 @@
 div#monster {
     background-color: rgb(116, 189, 164);
 }
+.search2 {
+    height: 45px;
+    width: 300px;
+    background: rgba(34, 34, 34, 0.5);   
+    padding-left: 10px;
+    padding-right: 10px; 
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    border: none;
+}
+
+    
+}
+button:hover {
+    color: rgb(255, 255, 255);
+    background: rgba(19, 15, 15, 0.8); 
+}
+button:link {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    
+}
 div.girl {
     text-align:center;
     padding:50px;
